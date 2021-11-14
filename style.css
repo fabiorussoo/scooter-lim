@@ -55,7 +55,7 @@ section > p {
     font-size: small;
 }
 
-div:last-child {
+section div:last-child {
     height: 25px;
     border-radius: 5px;
 }
