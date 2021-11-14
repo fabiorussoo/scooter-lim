@@ -21,12 +21,12 @@ header {
     text-align: center;
 }
 
-header img:first-child {
+img:first-child {
     width: 25%;
     height: 15%;
 }
 
-header h2:last-child {
+h2:last-child {
     color: #00dd00;
     font-family: 'Poppins', sans-serif;
 }
@@ -55,7 +55,7 @@ section > p {
     font-size: small;
 }
 
-section div:last-child {
+div:last-child {
     height: 25px;
     border-radius: 5px;
 }
